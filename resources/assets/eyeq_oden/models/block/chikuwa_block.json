@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "side": "eyeq_oden:blocks/chikuwa_side",
+    "top": "eyeq_oden:blocks/chikuwa_top",
+    "bottom": "eyeq_oden:blocks/chikuwa_top"
+  }
+}
